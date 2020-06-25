@@ -1,0 +1,416 @@
+{
+	"xmlns:applicaster": "http://schemas.applicaster.com/atom/1",
+	"xmlns": "http://www.w3.org/2005/Atom",
+	"xml:lang": "en-us",
+	"title": "Israél Title",
+	"subtitle": "Israél Subtitle",
+	"link": {
+		"rel": "self",
+		"type": "atom",
+		"href": "http://www.example.com/news_feed.atom"
+	},
+	"updated": "",
+	"id": "Test Feed",
+	"author": {
+		"name": "Yonatan"
+	},
+	"entry": [{
+			"type": {
+				"value": "video"
+			},
+			"title": "11 ןאכ",
+			"summary": "",
+			"id": "kan11",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://kanapi.media.kan.org.il/Redirector/ipbc/direct/kan-11/hls-live.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431219/image_assets/19067959/cms.jpg?1521496118",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431219/image_assets/19067959/cms.jpg?1521496118",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		}, {
+			"type": {
+				"value": "video"
+			},
+			"title": "קשת 12",
+			"summary": "",
+			"id": "keshet 12",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/Ct0E6oTG7kVu5VtcH6BcobUtqXDsXA2Z380cOyAHe1u6Y8fkaa8RD-lWlulIekXFBPN0u2R5C7TQk6zkcp-xaGqN73qJ2gxSOn-N8-4uC2Q22mc-x8ABm8ZmA2HLWFLTUTtfXH1gjbVrROuFfFB0hd2YmQ2g_OAf2yvcppOKQ4ZV3R9KcadgDMZLXivp9rVZ-MDImfNjENfDAP65433NV57ELeE0k4OZ2lvtnGM41dcqiXEMasGP06f23_kCkOuj-4ChRMKRPG_SfJYkNn79HGV85jfyoBowaAp9aBI8DS7sRi9KkhMfZ9RCrHEi8wO3JGwvKGXPWN61jnJS4_4uuGpNNViSxn-IxyvUAfMDu5tACi3akbWNrkNIFJMzxLORsf2CoZiBxK0nfIRro90fvRDhi0HOTO_ZNRnCOB7ZgDsPG7B3gQwFMSl8jn__YvB8kO-v8VE8TkO-gODz42NG07L1XtsX97jhXjnQw5pWt20lyh7TuD-xC_DeK1oRleQDd5Tw0bfLtc6zx2BnXsJ0__9-87yxENjpXNPrYtx4qBXnaTSRukqufip5j2z4xi-ZTLGZ31rYSZv9FTwqUMruC2RC3AP-oMiGAp6cjTvhSTgfhYsM9iXfEDCnKRkGMjSVw8Af5gQu31FejIri7uKvxrKR-FovhLLqzNw8g93fdFMgA80mjk4zvTQz1M5W0dDa0bwRkWbt91oOcvAHhq1E22nScPIBkdKqFLvru7ucFe44jrA4NXrSW9lm-Kfo_hJ9i8E9VGTe-BZufwId6lwdvLGoRWCvNALENO1VjB3x43MSEMjoeqTRNrP7f4vH0UgRjzYaDDf4BmeLGAYZXEpthg.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431217/image_assets/19067935/cms.jpg?1521496145",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431217/image_assets/19067935/cms.jpg?1521496145",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "חדשות 12",
+			"summary": "",
+			"id": "news 12",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6460516/image_assets/19290100/cms.jpg?1525416100",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6460516/image_assets/19290100/cms.jpg?1525416100",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "Ynet news",
+			"summary": "",
+			"id": "ynet news",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8?sd=10&rebase=on"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6630314/image_assets/21621437/cms.jpg?1548059931",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6630314/image_assets/21621437/cms.jpg?1548059931",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "Channel 23",
+			"summary": "",
+			"id": "Channel 23",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://kanapi.media.kan.org.il/Redirector/ipbc/direct/kan-23/hls-live.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6552863/image_assets/20452779/cms.jpg?1533456024",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6552863/image_assets/20452779/cms.jpg?1533456024",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "Kan 33",
+			"summary": "",
+			"id": "Kan 33",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://kanapi.media.kan.org.il/Redirector/ipbc/direct/makan-tv/hls-live.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431232/image_assets/19093999/cms.jpg?1534581310",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431232/image_assets/19093999/cms.jpg?1534581310",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "Knesset",
+			"summary": "",
+			"id": "Knesset",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://w3.013.gostreaming.tv:1935/Knesset/myStream/chunklist_w997581554.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6460515/image_assets/19290096/cms.jpg?1523827363",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6460515/image_assets/19290096/cms.jpg?1523827363",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "Channel 20",
+			"summary": "",
+			"id": "Channel 20",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6455428/image_assets/19243101/cms.jpg?1523827153",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6455428/image_assets/19243101/cms.jpg?1523827153",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "Channel 24 Music",
+			"summary": "",
+			"id": "Channel 24 Music",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6896663/image_assets/21837652/cms.jpg?1550873710",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6896663/image_assets/21837652/cms.jpg?1550873710",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "ILand",
+			"summary": "",
+			"id": "ILand",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://146.185.61.140:1935/ILAND/smil:iland.smil/playlist.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6896679/image_assets/22203661/cms.png?1555066628",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6896679/image_assets/22203661/cms.png?1555066628",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "ערות הקניות",
+			"summary": "",
+			"id": "arutz hakniot",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431235/image_assets/19094015/cms.jpg?1521494161",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431235/image_assets/19094015/cms.jpg?1521494161",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		}
+	],
+	"type": {
+		"value": "feed"
+	}
+}

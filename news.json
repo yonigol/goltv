@@ -1,0 +1,776 @@
+{
+	"xmlns:applicaster": "http://schemas.applicaster.com/atom/1",
+	"xmlns": "http://www.w3.org/2005/Atom",
+	"xml:lang": "en-us",
+	"title": "Israél Title",
+	"subtitle": "Israél Subtitle",
+	"link": {
+		"rel": "self",
+		"type": "atom",
+		"href": "http://www.example.com/news_feed.atom"
+	},
+	"updated": "",
+	"id": "Test Feed",
+	"author": {
+		"name": "GolTV"
+	},
+	"entry": [{
+			"type": {
+				"value": "video"
+			},
+			"title": "News Online",
+			"summary": "",
+			"id": "News Online",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6440202/image_assets/19094120/cms.jpg?1521495658",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6440202/image_assets/19094120/cms.jpg?1521495658",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		}, {
+			"type": {
+				"value": "video"
+			},
+			"title": "Ynet News",
+			"summary": "",
+			"id": "Ynet News",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8?sd=10&rebase=on.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6630314/image_assets/21621437/cms.jpg?1548059931",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6630314/image_assets/21621437/cms.jpg?1548059931",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "France 24",
+			"summary": "",
+			"id": "France 24",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6440218/image_assets/19129493/cms.jpg?1521755738",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6440218/image_assets/19129493/cms.jpg?1521755738",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "SKY News",
+			"summary": "",
+			"id": "SKY News",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431222/image_assets/19067974/cms.jpg?1521493324",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431222/image_assets/19067974/cms.jpg?1521493324",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "Fox News",
+			"summary": "",
+			"id": "Fox News",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6980121/image_assets/22512802/cms.jpg?1558276229",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6980121/image_assets/22512802/cms.jpg?1558276229",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "CNN",
+			"summary": "",
+			"id": "CNN",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://ott-cdn.ucom.am/s27/04.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6613337/image_assets/20506030/cms.jpg?1534582175",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6613337/image_assets/20506030/cms.jpg?1534582175",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "BBC World News",
+			"summary": "",
+			"id": "BBC World News",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://ott-cdn.ucom.am/s24/04.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431225/image_assets/19093925/cms.jpg?1525418359",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431225/image_assets/19093925/cms.jpg?1525418359",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "ABC News",
+			"summary": "",
+			"id": "ABC News",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431220/image_assets/19067965/cms.jpg?1521493346",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431220/image_assets/19067965/cms.jpg?1521493346",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "CBS News",
+			"summary": "",
+			"id": "CBS News",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431221/image_assets/19067969/cms.jpg?1521493333",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431221/image_assets/19067969/cms.jpg?1521493333",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "TVE 24 Horas",
+			"summary": "",
+			"id": "TVE 24 Horas",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/master.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6980134/image_assets/22588678/cms.jpg?1559551900",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6980134/image_assets/22588678/cms.jpg?1559551900",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "TVE 24 Horas",
+			"summary": "",
+			"id": "TVE 24 Horas",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/master.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6980134/image_assets/22588678/cms.jpg?1559551900",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6980134/image_assets/22588678/cms.jpg?1559551900",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "RAI News",
+			"summary": "",
+			"id": "RAI News",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6455458/image_assets/19289947/cms.jpeg?1525424470",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6455458/image_assets/19289947/cms.jpeg?1525424470",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "SKY TG24",
+			"summary": "",
+			"id": "SKY TG24",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431229/image_assets/19093979/cms.jpg?1521493731",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431229/image_assets/19093979/cms.jpg?1521493731",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "Band News",
+			"summary": "",
+			"id": "Band News",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://wwwaw9i3zt.singularcdn.net.br/live/BandeirantesHD/BandeirantesHD.isml/master.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6980127/image_assets/22539609/cms.jpg?1558689628",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6980127/image_assets/22539609/cms.jpg?1558689628",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "MSNBC",
+			"summary": "",
+			"id": "MSNBC",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431227/image_assets/19093941/cms.jpg?1521493594",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431227/image_assets/19093941/cms.jpg?1521493594",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "MSNBC",
+			"summary": "",
+			"id": "MSNBC",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431227/image_assets/19093941/cms.jpg?1521493594",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431227/image_assets/19093941/cms.jpg?1521493594",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "Bloomberg",
+			"summary": "",
+			"id": "Bloomberg",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431226/image_assets/19093930/cms.jpg?1521493517",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431226/image_assets/19093930/cms.jpg?1521493517",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "Russia Today",
+			"summary": "",
+			"id": "Russia Today",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://ott-cdn.ucom.am/s96/04.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6455423/image_assets/19243064/cms.jpg?1523826450",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6455423/image_assets/19243064/cms.jpg?1523826450",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "Aljazeera English",
+			"summary": "",
+			"id": "Aljazeera English",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://ott-cdn.ucom.am/s23/04.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6440204/image_assets/19094186/cms.png?1565507628",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6440204/image_assets/19094186/cms.png?1565507628",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "Al Manar Lebanon",
+			"summary": "",
+			"id": "Al Manar Lebanon",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6460518/image_assets/19290112/cms.jpg?1523827082",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6460518/image_assets/19290112/cms.jpg?1523827082",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "RTE News",
+			"summary": "",
+			"id": "RTE News",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431228/image_assets/19093975/cms.jpg?1521493675",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431228/image_assets/19093975/cms.jpg?1521493675",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		}
+	],
+	"type": {
+		"value": "feed"
+	}
+}
