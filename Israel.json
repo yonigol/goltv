@@ -1,0 +1,24 @@
+ISRAEL
+#EXTINF:-1 tvg-id="channel11.il" tvg-name="channel11.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/channel11.il.png",Channel 11 Kan
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/channel11.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live0/6YRpf9ZSfMUgA8Tc73Kvzw/50399/1594431408/200010.m3u8
+
+#EXTINF:-1 tvg-id="channel12.il" tvg-name="channel12.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/channel12.il.png",Channel 12 Keshet
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/channel12.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live0/6oMyutnVqFB2tKTt8MKcPg/50399/1594431443/200013.m3u8
+
+#EXTINF:-1 tvg-id="channel13.il" tvg-name="channel13.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/channel13.il.png",Channel 13 Reshet
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/channel13.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/VbtDFfvXPSeJBTMOGrOmmQ/50399/1594431496/200014.m3u8
+
+#EXTINF:-1 tvg-id="channel20.il" tvg-name="channel20.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/channel20.il.png",Channel 20
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/channel20.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/gCp4-8-SsRRz8ykhqllDrA/50399/1594431609/200038.m3u8
+
+#EXTINF:-1 tvg-id="channel9.il" tvg-name="channel9.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/channel9.il.png",Channel 9
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/channel9.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/2ErKDz2Vh1tTmYSdKDssGg/50399/1594431628/200034.m3u8
+
+#EXTINF:-1 tvg-id="channel98.il" tvg-name="channel98.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/channel98.il.png",Channel 98
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/channel98.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/PxCqpUnVRjFmgISfQCINBw/50399/1594431643/1541.m3u8d

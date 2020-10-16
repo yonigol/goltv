@@ -1,0 +1,7 @@
+SPORTS ES
+#EXTINF:-1 tvg-id="bein.sports.liga.us" tvg-name="bein.sports.liga.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/bein.sports.liga.us.png",beIN Sports Liga US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/bein.sports.liga.us.m3u8
+
+#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="laligatv.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/laligatv.uk.png",La Liga TV
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/laligatv.uk.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/aLjCnl9TZvGtyFv_zjfp8A/50399/1594439839/4001274.m3u8

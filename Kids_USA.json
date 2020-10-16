@@ -1,0 +1,97 @@
+
+KIDS USA
+#EXTINF:-1 tvg-id="pbs.kids.us" tvg-name="pbs.kids.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/pbs.kids.us.png",PBS Kids US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/pbs.kids.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/ByC1afvaOD5Bidan10LBvw/50399/1594437960/3006513.m3u8
+
+#EXTINF:-1 tvg-id="knowledge.network.ca" tvg-name="knowledge.network.ca" tvg-type="live" group-title="Canada" tvg-logo="https://media.tv4.live/knowledge.network.ca.png",KNOWLEDGE KIDS
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/knowledge.network.ca.m3u8
+
+#EXTINF:-1 tvg-id="cartoon.network.usa.eastern.us" tvg-name="cartoon.network.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/cartoon.network.usa.eastern.us.png",Cartoon Network (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/cartoon.network.usa.eastern.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live12/vx5aPIFKXlrNP-c9RUkIZA/50399/1594437068/3005809.m3u8
+
+#EXTINF:-1 tvg-id="nick.jr.us" tvg-name="nick.jr.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/nick.jr.us.png",Nick Jr US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/nick.jr.us.m3u8
+https://37-48-106-74.bestserver.online:5052/live13/tPa8Zj5H_wsQalkB0wUp5Q/50399/1594437877/9094767.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon.usa.east.us" tvg-name="nickelodeon.usa.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/nickelodeon.usa.east.us.png",Nickelodeon (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/nickelodeon.usa.east.us.m3u8
+https://37-48-106-74.bestserver.online:5052/live11/11i1bsuIbTEy-zNHjNrpIQ/50399/1594437891/14001537.m3u8
+
+#EXTINF:-1 tvg-id="nicktoons.east.us" tvg-name="nicktoons.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/nicktoons.east.us.png",Nicktoons US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/nicktoons.east.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/B0zSwEGGimycOtvnGzI6Jw/50399/1594437915/3005813.m3u8
+
+#EXTINF:-1 tvg-id="disney.channel.canada.east.ca" tvg-name="disney.channel.canada.east.ca" tvg-type="live" group-title="Canada" tvg-logo="https://media.tv4.live/disney.channel.canada.east.ca.png",Disney Channel (East) CA
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/disney.channel.canada.east.ca.m3u8
+
+#EXTINF:-1 tvg-id="disney.junior.canada.ca" tvg-name="disney.junior.canada.ca" tvg-type="live" group-title="Canada" tvg-logo="https://media.tv4.live/disney.junior.canada.ca.png",Disney Junior CA
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/disney.junior.canada.ca.m3u8
+
+#EXTINF:-1 tvg-id="disney.xd.canada.ca" tvg-name="disney.xd.canada.ca" tvg-type="live" group-title="Canada" tvg-logo="https://media.tv4.live/disney.xd.canada.ca.png",Disney XD CA
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/disney.xd.canada.ca.m3u8
+
+#EXTINF:-1 tvg-id="pop.east.us" tvg-name="pop.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/pop.east.us.png",POP (East)
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/pop.east.us.m3u8
+
+#EXTINF:-1 tvg-id="universal.kids.us" tvg-name="universal.kids.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/universal.kids.us.png",Universal Kids US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/universal.kids.us.m3u8
+
+#EXTINF:-1 tvg-id="starz.kids.family.pacific.us" tvg-name="starz.kids.family.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.kids.family.pacific.us.png",Starz Kids (West) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/starz.kids.family.pacific.us.m3u8
+
+#EXTINF:-1 tvg-id="baby.first.tv.us" tvg-name="baby.first.tv.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/baby.first.tv.us.png",BabyFirst US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/baby.first.tv.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live12/81JZ5cn58ZOfygxdp9E1qQ/50399/1594436951/3009041.m3u8
+
+EXTINF:-1 tvg-id="baby.tv.us" tvg-name="baby.tv.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/baby.tv.us.png",BabyTV US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/baby.tv.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live12/ZMDi3_m78v9H0fovBRjFlA/50399/1594436966/3005811.m3u8
+
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="cbbc.uk" tvg-type="live" group-title="UK" tvg-logo="https://media.tv4.live/cbbc.uk.png",CBBC
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/cbbc.uk.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/BNhWSa08ZB7wWsF8mnxosg/50399/1594440796/4001367.m3u8
+
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="cbeebies.uk" tvg-type="live" group-title="UK" tvg-logo="https://media.tv4.live/cbeebies.uk.png",Cbeebies UK
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/cbeebies.uk.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/4OKmOqIv62htTFIw0v8hFw/50399/1594440809/2713.m3u8
+
+#EXTINF:-1 tvg-id="disney.jr.uk" tvg-name="disney.jr.uk" tvg-type="live" group-title="UK" tvg-logo="https://media.tv4.live/disney.jr.uk.png",Disney Jr UK
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/disney.jr.uk.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/syWWnxw59-aqo-PB7w0-rQ/50399/1594440976/4002234.m3u8
+
+#EXTINF:-1 tvg-id="disney.uk" tvg-name="disney.uk" tvg-type="live" group-title="UK" tvg-logo="https://media.tv4.live/disney.uk.png",Disney UK
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/disney.uk.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/aq1MX8kMxPqgrNidG_0Fuw/50399/1594440988/4002233.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="nickelodeon.uk" tvg-type="live" group-title="UK" tvg-logo="https://media.tv4.live/nickelodeon.uk.png",Nickelodeon UK
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/nickelodeon.uk.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/nmshwohNgy8vhgwrFe48Rw/50399/1594441137/4000108.m3u8
+
+#EXTINF:-1 tvg-id="rte.jr.uk" tvg-name="rte.jr.uk" tvg-type="live" group-title="UK" tvg-logo="https://media.tv4.live/rte.jr.uk.png",RTE Jr
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/rte.jr.uk.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/c8MxW9rqBcRzWPd_HsnINQ/50399/1594441183/4002099.m3u8
+
+#EXTINF:-1 tvg-id="jimjam.ze" tvg-name="jimjam.ze" tvg-type="live" group-title="Africa" tvg-logo="https://media.tv4.live/jimjam.ze.png",JimJam
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/jimjam.ze.m3u8
+https://37-48-106-74.bestserver.online:5052/live12/hMnF9ZrOXy6WE68PAy8CSQ/50399/1594441560/20000042.m3u8
+
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="cbbc.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/cbbc.uk.png",CBBC
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/cbbc.uk.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/RCkozOIPsUdRywA7EoAKCQ/50399/1594434099/4001367.m3u8
+
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="cbeebies.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/cbeebies.uk.png",Cbeebies UK
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/cbeebies.uk.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/fJ7pKPGoQI-5J_DOiq9SLw/50399/1594434112/2713.m3u8
+
+#EXTINF:-1 tvg-id="nickmusic.us" tvg-name="nickmusic.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nickmusic.us.png",NickMusic US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/nickmusic.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live12/BuaoJ0W5gptgbcLUke4utA/50399/1594434311/3005902.m3u8
+
+#EXTINF:-1 tvg-id="tiny.pop.uk" tvg-name="tiny.pop.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/tiny.pop.uk.png",Tiny Pop UK
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/tiny.pop.uk.m3u8
+
+#EXTINF:-1 tvg-id="treehouse.ca" tvg-name="treehouse.ca" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/treehouse.ca.png",Treehouse CA
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/treehouse.ca.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/rj-I1h1c9F8nKkB2HWQFJg/50399/1594434415/3008069.m3u8

@@ -1,0 +1,16 @@
+TELENOVELAS & REALITY
+#EXTINF:-1 tvg-id="cbsreality.il" tvg-name="cbsreality.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/cbsreality.il.png",CBS Reality IL
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/cbsreality.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live0/BLMbTILq2K9lZEyZpoqyFw/50399/1594431389/200039.m3u8
+
+#EXTINF:-1 tvg-id="turkish.dramas.il" tvg-name="turkish.dramas.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/turkish.dramas.il.png",Turkish Dramas
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/turkish.dramas.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/UZLlkOuaY8w-W7LaDffykQ/50399/1594432553/200042.m3u8
+
+#EXTINF:-1 tvg-id="viva.il" tvg-name="viva.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/viva.il.png",Viva
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/viva.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live0/69rqdCkfrfTDqlaiyXoBMA/50399/1594432566/200022.m3u8
+
+#EXTINF:-1 tvg-id="vivaplus.il" tvg-name="vivaplus.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/vivaplus.il.png",Viva+
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/vivaplus.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live0/psr6TnMTT3s-ymO_L9u1wA/50399/1594432580/200023.m3u8

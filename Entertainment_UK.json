@@ -1,0 +1,42 @@
+ENTERTATINMENT UK
+#EXTINF:-1 tvg-id="sky.one.uk" tvg-name="sky.one.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.one.uk.png",Sky One
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sky.one.uk.m3u8
+https://31-220-2-60.bestserver.online:5052/live0/HSwpvn1xCfdP6tD0j6Jh8Q/50399/1594440619/4000061.m3u8
+
+#EXTINF:-1 tvg-id="bbc.one.uk" tvg-name="bbc.one.uk" tvg-type="live" group-title="UK" tvg-logo="https://media.tv4.live/bbc.one.uk.png",BBC 1
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/bbc.one.uk.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/5rq84uULzDez4ct4J45dfQ/50399/1594440720/4000056.m3u8
+
+#EXTINF:-1 tvg-id="bbc.two.uk" tvg-name="bbc.two.uk" tvg-type="live" group-title="UK" tvg-logo="https://media.tv4.live/bbc.two.uk.png",BBC 2
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/bbc.two.uk.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/dqmBT5I1JwVUPSMAiwpIAg/50399/1594440734/4000057.m3u8
+
+#EXTINF:-1 tvg-id="channel.4.uk" tvg-name="channel.4.uk" tvg-type="live" group-title="UK" tvg-logo="https://media.tv4.live/channel.4.uk.png",Channel 4
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/channel.4.uk.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/oO_yPMgDOQqgvax9Hp3EXQ/50399/1594440861/4000059.m3u8
+
+#EXTINF:-1 tvg-id="channel.5.uk" tvg-name="channel.5.uk" tvg-type="live" group-title="UK" tvg-logo="https://media.tv4.live/channel.5.uk.png",Channel 5
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/channel.5.uk.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/z6CQwcuJfxHsEOW0btuXrA/50399/1594440876/4000060.m3u8
+
+#EXTINF:-1 tvg-id="fox.uk" tvg-name="fox.uk" tvg-type="live" group-title="UK" tvg-logo="https://media.tv4.live/fox.uk.png",FOX
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/fox.uk.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/fHlTsU-SRMFVorlkBSMFNQ/50399/1594441042/4000076.m3u8
+
+#EXTINF:-1 tvg-id="history.uk" tvg-name="history.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/history.uk.png",Sky History UK
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/history.uk.m3u8
+
+#EXTINF:-1 tvg-id="cbs.action.uk" tvg-name="cbs.action.uk" tvg-type="live" group-title="UK" tvg-logo="https://media.tv4.live/cbs.action.uk.png",CBS Action
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/cbs.action.uk.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/ZiWhPd9Pa7XJkhSpKiU2-w/50399/1594440821/1677.m3u8
+
+#EXTINF:-1 tvg-id="cbs.drama.uk" tvg-name="cbs.drama.uk" tvg-type="live" group-title="UK" tvg-logo="https://media.tv4.live/cbs.drama.uk.png",CBS Drama
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/cbs.drama.uk.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/aTyBbes6bcoZF7taM8S7mA/50399/1594440833/4000404.m3u8
+
+#EXTINF:-1 tvg-id="cbs.reality.uk" tvg-name="cbs.reality.uk" tvg-type="live" group-title="UK" tvg-logo="https://media.tv4.live/cbs.reality.uk.png",CBS Reality
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/cbs.reality.uk.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/VnhT5BjmZxaXjomRb2RuLw/50399/1594440845/4000406.m3u8
+
+#EXTINF:-1 tvg-id="challenge.uk" tvg-name="challenge.uk" tvg-type="live" group-title="UK" tvg-logo="https://media.tv4.live/challenge.uk.png",Challenge
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/challenge.uk.m3u8

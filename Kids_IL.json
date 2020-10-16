@@ -1,0 +1,73 @@
+KIDS IL
+
+#EXTINF:-1 tvg-id="kankids.il" tvg-name="kankids.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/kankids.il.png",Kan Chinuchit
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/kankids.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/VV6quZzm71gdvphA2B0_Qw/50399/1594432160/200011.m3u8
+
+#EXTINF:-1 tvg-id="junior.il" tvg-name="junior.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/junior.il.png",Junior
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/junior.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live0/ov8wL48Dk09DyUkYqq4Dmw/50399/1594432133/200025.m3u8
+
+
+#EXTINF:-1 tvg-id="disneychannel.il" tvg-name="disneychannel.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/disneychannel.il.png",Disney Channel IL
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/disneychannel.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/LzocVxrgYW0cbrNKpFam3w/50399/1594431673/200029.m3u8
+
+#EXTINF:-1 tvg-id="disneyjunior.il" tvg-name="disneyjunior.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/disneyjunior.il.png",Disney Jr
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/disneyjunior.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/9ouEWBmOFYfcYi9EKI0b_Q/50399/1594431689/200012.m3u8
+
+#EXTINF:-1 tvg-id="nickjr.il" tvg-name="nickjr.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/nickjr.il.png",Nick Jr
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/nickjr.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/RUXT9qyqp2x7BdvrBXAj4A/50399/1594432316/1501.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon.il" tvg-name="nickelodeon.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/nickelodeon.il.png",Nickelodeon 
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/nickelodeon.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/h_8aSYPlM4WnWWfef64LqA/50399/1594432330/100050.m3u8
+
+#EXTINF:-1 tvg-id="teennick.il" tvg-name="teennick.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/teennick.il.png",TeenNick
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/teennick.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/qJzGedZvELvZ0ohPTP6fSw/50399/1594432507/476.m3u8
+
+#EXTINF:-1 tvg-id="zoom.il" tvg-name="zoom.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/zoom.il.png",ZOOM
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/zoom.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/jB5ohQCkDlgIi4AgEFFjBA/50399/1594432675/1528.m3u8
+
+#EXTINF:-1 tvg-id="kidz.il" tvg-name="kidz.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/kidz.il.png",Hot Kidz
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/kidz.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/f3UOKgMo6BQ9a2oHkUVZLw/50399/1594432043/1535.m3u8
+
+#EXTINF:-1 tvg-id="yeladim.il" tvg-name="yeladim.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/yeladim.il.png",Yeladim
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/yeladim.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/yCmGVpWx62zH7xQHaWZDtg/50399/1594432626/200028.m3u8
+
+#EXTINF:-1 tvg-id="logi.il" tvg-name="logi.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/logi.il.png",Logi
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/logi.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/LFzvCAK9z6VsybMEdzGObQ/50399/1594432199/200027.m3u8
+
+#EXTINF:-1 tvg-id="hope.il" tvg-name="hope.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/hope.il.png",Hop
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hope.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/aBW9FTTCzREkLP0mblDhdw/50399/1594431901/1502.m3u8
+
+#EXTINF:-1 tvg-id="hopyaldot.il" tvg-name="hopyaldot.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/hopyaldot.il.png",Yaldut Israeli
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hopyaldot.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/aEGW3jP4RWQ-DgROybnJOg/50399/1594432600/1559.m3u8
+
+#EXTINF:-1 tvg-id="hotluli.il" tvg-name="hotluli.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/hotluli.il.png",Luli
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hotluli.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/lR8BabhI8RLUO8Dzf2Ad7Q/50399/1594432213/1534.m3u8
+
+#EXTINF:-1 tvg-id="baby.il" tvg-name="baby.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/baby.il.png",Baby TV
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/baby.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live0/I3ZbUN2ETL5rCwnJXXf-MQ/50399/1594431367/200024.m3u8
+
+
+#EXTINF:-1 tvg-id="aplus.il" tvg-name="aplus.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/aplus.il.png",A Plus Kids
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/aplus.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/abVPfrLWfK3aPvHyW04xog/50399/1594431337/1558.m3u8
+
+#EXTINF:-1 tvg-id="stars.il" tvg-name="stars.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/stars.il.png",Kids Stars
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/stars.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/F9TL0cww2tCNK1EJ6RDArA/50399/1594432172/200054.m3u8
+
+

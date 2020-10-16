@@ -1,0 +1,28 @@
+SPORTS UK
+#EXTINF:-1 tvg-id="diiefbxx.ss" tvg-name="diiefbxx.ss" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/diiefbxx.ss.png",Sky Sports Premier League
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/diiefbxx.ss.m3u8
+https://31-220-2-60.bestserver.online:5052/live0/XlcQWI4EnNCkUu7-mVkc-Q/50399/1594440057/4002032.m3u8
+
+#EXTINF:-1 tvg-id="bt.sport.1.uk" tvg-name="bt.sport.1.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/bt.sport.1.uk.png",BT Sport 1 UK
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/bt.sport.1.uk.m3u8
+https://31-220-2-60.bestserver.online:5052/live0/IexSmtznE-Ss-GGXdmBXBw/50399/1594439676/8000061.m3u8
+
+#EXTINF:-1 tvg-id="bt.sport.2.uk" tvg-name="bt.sport.2.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/bt.sport.2.uk.png",BT Sport 2 UK
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/bt.sport.2.uk.m3u8
+https://31-220-2-60.bestserver.online:5052/live0/CTLd3mvX73U4AYBZjK6yEQ/50399/1594439688/8000063.m3u8
+
+#EXTINF:-1 tvg-id="bt.sport.3.uk" tvg-name="bt.sport.3.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/bt.sport.3.uk.png",BT Sport 3 UK
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/bt.sport.3.uk.m3u8
+https://31-220-2-60.bestserver.online:5052/live2/2tF9xgGUspTlhi83KIM4eg/50399/1594439701/4002057.m3u8
+
+#EXTINF:-1 tvg-id="premier.1.uk" tvg-name="premier.1.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/premier.1.uk.png",Premier 1 UK
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/premier.1.uk.m3u8
+https://31-220-2-60.bestserver.online:5052/live2/nZ72MNlqLJFe2f3swwnOEA/50399/1594439948/4000102.m3u8
+
+#EXTINF:-1 tvg-id="premier.2.uk" tvg-name="premier.2.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/premier.2.uk.png",Premier 2 UK
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/premier.2.uk.m3u8
+https://31-220-2-60.bestserver.online:5052/live2/CLWwa9jWET8ZG7guRWtBIQ/50399/1594439960/4000103.m3u8
+
+#EXTINF:-1 tvg-id="premier.3.uk" tvg-name="premier.3.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/premier.3.uk.png",Premier 3
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/premier.3.uk.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/x8MFvcjroJ1jCYyCVZNnSg/50399/1594439972/4001273.m3u8

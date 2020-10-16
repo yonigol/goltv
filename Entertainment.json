@@ -1,0 +1,90 @@
+ENTERTAINMENT
+#EXTINF:-1 tvg-id="hot3.il" tvg-name="hot3.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/hot3.il.png",Hot3
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hot3.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/J5mJID-DOQ4Vxu-B_KrMpQ/50399/1594432081/1537.m3u8
+
+#EXTINF:-1 tvg-id="yes3.il" tvg-name="yes3.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/yes3.il.png",Yes 3
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/yes3.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/MIvKfpw6QxqwK3ESZGqrgg/50399/1594432647/1516.m3u8
+
+#EXTINF:-1 tvg-id="hothbo.il" tvg-name="hothbo.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/hothbo.il.png",Hot HBO
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hothbo.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/D-gx_yEEK8qhtQGK66jOew/50399/1594432020/1523.m3u8
+
+#EXTINF:-1 tvg-id="hotzone.il" tvg-name="hotzone.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/hotzone.il.png",Hot Zone
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hotzone.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/eE32KYdg-L-LISzeQdWQOA/50399/1594432067/1529.m3u8
+
+#EXTINF:-1 tvg-id="hotbidurisraeli.il" tvg-name="hotbidurisraeli.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/hotbidurisraeli.il.png",Hot Entertainment
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hotbidurisraeli.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/W7UPJWmxWM2AeLHMXCScug/50399/1594431979/1553.m3u8
+
+#EXTINF:-1 tvg-id="foodchannel.il" tvg-name="foodchannel.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/foodchannel.il.png",Food Channel
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/foodchannel.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/6xzA3QcmMMEVZG4JVnipSQ/50399/1594431756/1551.m3u8
+
+#EXTINF:-1 tvg-id="foodnetwork.il" tvg-name="foodnetwork.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/foodnetwork.il.png",Food Network
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/foodnetwork.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live0/Di7u_HsFx3hVOwgCVC0kRw/50399/1594431781/200033.m3u8
+
+#EXTINF:-1 tvg-id="the.cooking.channel.us" tvg-name="the.cooking.channel.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/the.cooking.channel.us.png",Cooking Channel US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/the.cooking.channel.us.m3u8
+https://37-48-106-74.bestserver.online:5052/live13/AG9GRUjlrLBEdspm8l9ukg/50399/1594437223/9079312.m3u8
+
+#EXTINF:-1 tvg-id="homeplus.il" tvg-name="homeplus.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/homeplus.il.png",Home Plus
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/homeplus.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/ErNaz3hK9go0x3woSwM2Tg/50399/1594431888/200007.m3u8
+
+#EXTINF:-1 tvg-id="hgtv.usa.eastern.us" tvg-name="hgtv.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hgtv.usa.eastern.us.png",HGTV (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hgtv.usa.eastern.us.m3u8
+https://37-48-106-74.bestserver.online:5052/live13/cAqXphVfBxA0BmJf5QE9KA/50399/1594437681/9049830.m3u8
+
+#EXTINF:-1 tvg-id="do.it.yourself.network.usa.east.us" tvg-name="do.it.yourself.network.usa.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/do.it.yourself.network.usa.east.us.png",Do It Yourself Network (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/do.it.yourself.network.usa.east.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/91qLDdNePlu1qqTDpFHXGg/50399/1594437338/9078575.m3u8
+
+#EXTINF:-1 tvg-id="goodlife.il" tvg-name="goodlife.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/goodlife.il.png",Good Life
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/goodlife.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/mb8e3mA0byjdCfO86Zg5YA/50399/1594431813/1524.m3u8
+
+#EXTINF:-1 tvg-id="travel.ch.il" tvg-name="travel.ch.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/travel.ch.il.png",Travel Channel IL
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/travel.ch.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/AWBXq-cZFj21Jpg25_LCmw/50399/1594432535/200032.m3u8
+
+#EXTINF:-1 tvg-id="travel.il" tvg-name="travel.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/travel.il.png",Travel 
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/travel.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/2k3dfJvnPI6kcuXpSgu2Sw/50399/1594432521/1530.m3u8
+
+#EXTINF:-1 tvg-id="travel.us.east.us" tvg-name="travel.us.east.us" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/travel.us.east.us.png",Travel Channel US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/travel.us.east.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live11/x5TZg5ZUa-LhOW1w3faFqQ/50399/1594439296/14000413.m3u8
+
+#EXTINF:-1 tvg-id="travel.channel.uk" tvg-name="travel.channel.uk" tvg-type="live" group-title="Documentary" tvg-logo="https://media.tv4.live/travel.channel.uk.png",Travel Channel UK
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/travel.channel.uk.m3u8
+https://95-211-216-163.bestserver.online:5052/live0/RHqQbM4dT0GaT7EMz62KWg/50399/1594439284/4000403.m3u8
+
+#EXTINF:-1 tvg-id="outdoor.channel.us.us" tvg-name="outdoor.channel.us.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/outdoor.channel.us.us.png",Outdoor Channel
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/outdoor.channel.us.us.m3u8
+
+#EXTINF:-1 tvg-id="humor.il" tvg-name="humor.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/humor.il.png",Humor Channel
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/humor.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live0/W5ISDxxFy3ZLiEi1AK-PqQ/50399/1594432094/1557.m3u8
+
+#EXTINF:-1 tvg-id="comedy.central.eastern.us" tvg-name="comedy.central.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/comedy.central.eastern.us.png",Comedy Central US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/comedy.central.eastern.us.m3u8
+
+#EXTINF:-1 tvg-id="eentertainment.il" tvg-name="eentertainment.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/eentertainment.il.png",E!
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/eentertainment.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/LnehEkKpmxfmA5WLl-XGTA/50399/1594431701/200008.m3u8
+
+#EXTINF:-1 tvg-id="health.il" tvg-name="health.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/health.il.png",Health
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/health.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/CjMRqnL0GT7qOCzKJCZK1Q/50399/1594431840/1552.m3u8
+
+#EXTINF:-1 tvg-id="destination.america.us" tvg-name="destination.america.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/destination.america.us.png",Destination America US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/destination.america.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/gRMZzvBogodnB38HNGlPeg/50399/1594437246/9070835.m3u8
+
+#EXTINF:-1 tvg-id="hero.il" tvg-name="hero.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/hero.il.png",Hero!
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hero.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/CBmgUu-KKNNIQBrshUhaBQ/50399/1594431860/200026.m3u8

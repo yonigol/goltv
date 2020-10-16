@@ -1,0 +1,58 @@
+SCIENCE & NATURE
+#EXTINF:-1 tvg-id="discoverychannel.il" tvg-name="discoverychannel.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/discoverychannel.il.png",Discovery Channel
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/discoverychannel.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/gh_O-y9wzehTgl2jGRuPCQ/50399/1594431659/200036.m3u8
+
+#EXTINF:-1 tvg-id="natgeo.il" tvg-name="natgeo.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/natgeo.il.png",NatGeo
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/natgeo.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/tCd1QZLa3mnwJXeoYwv9BA/50399/1594432267/972.m3u8
+
+#EXTINF:-1 tvg-id="national.geographic.us.eastern.us" tvg-name="national.geographic.us.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/national.geographic.us.eastern.us.png",Nat Geo (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/national.geographic.us.eastern.us.m3u8
+https://37-48-106-74.bestserver.online:5052/live11/pecbQPlBAZ-LCQwsD2IJOw/50399/1594437848/14000401.m3u8
+
+#EXTINF:-1 tvg-id="natgeowild.il" tvg-name="natgeowild.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/natgeowild.il.png",NatGeo Wild
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/natgeowild.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live0/dWnHq6ZbrxK0g30tl4oziw/50399/1594432284/200030.m3u8
+
+#EXTINF:-1 tvg-id="national.geographic.wild.us" tvg-name="national.geographic.wild.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/national.geographic.wild.us.png",Nat Geo Wild US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/national.geographic.wild.us.m3u8
+https://37-48-106-74.bestserver.online:5052/live13/qNtHxzC1qmymrU2rg7DvZQ/50399/1594437860/3005837.m3u8
+
+#EXTINF:-1 tvg-id="nationalgeo.il" tvg-name="nationalgeo.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/nationalgeo.il.png",National Geographic
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/nationalgeo.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/Pqfiv-OeMR9By3fSj0B9YQ/50399/1594432297/100048.m3u8
+
+#EXTINF:-1 tvg-id="animal.planet.canada.ca" tvg-name="animal.planet.canada.ca" tvg-type="live" group-title="Canada" tvg-logo="https://media.tv4.live/animal.planet.canada.ca.png",Animal Planet
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/animal.planet.canada.ca.m3u8
+https://37-48-106-74.bestserver.online:5052/live12/fFg3gnY0cxELcguYI-8K1g/50399/1594438476/3024225.m3u8
+
+#EXTINF:-1 tvg-id="discovery.shed.uk" tvg-name="discovery.shed.uk" tvg-type="live" group-title="UK" tvg-logo="https://media.tv4.live/discovery.shed.uk.png",Discovery Shed UK
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/discovery.shed.uk.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/7OBRL6du4MFEeyIlm862NQ/50399/1594440933/4001303.m3u8
+
+#EXTINF:-1 tvg-id="discovery.turbo.uk" tvg-name="discovery.turbo.uk" tvg-type="live" group-title="UK" tvg-logo="https://media.tv4.live/discovery.turbo.uk.png",Discovery Turbo UK
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/discovery.turbo.uk.m3u8
+https://95-211-216-163.bestserver.online:5052/live0/Sn6mg1COLx9biKuTp1drzw/50399/1594440946/4000782.m3u8
+
+#EXTINF:-1 tvg-id="history.channel.us.eastern.us" tvg-name="history.channel.us.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/history.channel.us.eastern.us.png",History Channel US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/history.channel.us.eastern.us.m3u8
+https://37-48-106-74.bestserver.online:5052/live13/qoQOcxuL_B24_3HUg0eLHQ/50399/1594437693/9104898.m3u8
+
+#EXTINF:-1 tvg-id="documentary.channel.canada.ca" tvg-name="documentary.channel.canada.ca" tvg-type="live" group-title="Canada" tvg-logo="https://media.tv4.live/documentary.channel.canada.ca.png",Documentary Channel
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/documentary.channel.canada.ca.m3u8
+
+#EXTINF:-1 tvg-id="nasa.4k.us" tvg-name="nasa.4k.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/nasa.4k.us.png",NASA
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/nasa.4k.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live11/5ftJPMOwgXDhduGxHZvpaA/50399/1594437823/1022709.m3u8
+
+#EXTINF:-1 tvg-id="science.us" tvg-name="science.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/science.us.png",Science US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/science.us.m3u8
+
+#EXTINF:-1 tvg-id="bbc.earth.ca" tvg-name="bbc.earth.ca" tvg-type="live" group-title="Canada" tvg-logo="https://media.tv4.live/bbc.earth.ca.png",BBC Earth CA
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/bbc.earth.ca.m3u8
+https://37-48-106-74.bestserver.online:5052/live12/0HdENpx0_ZgVT3cdNJ-FTw/50399/1594438487/2027090.m3u8
+
+#EXTINF:-1 tvg-id="smithsonian.channel.usa.us" tvg-name="smithsonian.channel.usa.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/smithsonian.channel.usa.us.png",Smithsonian Channel
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/smithsonian.channel.usa.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/sTHkSctp_1cXg-tdrgxH_Q/50399/1594438143/9068703.m3u8

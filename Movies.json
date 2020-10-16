@@ -1,0 +1,98 @@
+MOVIES
+#EXTINF:-1 tvg-id="yesaction.il" tvg-name="yesaction.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/yesaction.il.png",Yes Action
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/yesaction.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/UnbcbJby7MhWUPObHwmYpw/50399/1594432664/1513.m3u8
+
+#EXTINF:-1 tvg-id="hotaction.il" tvg-name="hotaction.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/hotaction.il.png",Hot Action
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hotaction.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/NboSoMcoqHDd85D-1K7cbg/50399/1594431916/1544.m3u8
+
+#EXTINF:-1 tvg-id="hotdrama.il" tvg-name="hotdrama.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/hotdrama.il.png",Hot Drama
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hotdrama.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/Ty5rNEQzAnrV-0XGwAqTSA/50399/1594431966/1526.m3u8
+
+#EXTINF:-1 tvg-id="hotfun.il" tvg-name="hotfun.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/hotfun.il.png",Hot Fun
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hotfun.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/GpWVbWxZncq78RWD55p-uQ/50399/1594431994/1525.m3u8
+
+#EXTINF:-1 tvg-id="hotgold.il" tvg-name="hotgold.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/hotgold.il.png",Hot Gold
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hotgold.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/mgxcNPQ16GNf-TI6BJMixQ/50399/1594432006/1545.m3u8
+#EXTINF:-1 tvg-id="sky.atlantic.uk" tvg-name="sky.atlantic.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.atlantic.uk.png",Sky Atlantic UK
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sky.atlantic.uk.m3u8
+https://31-220-2-60.bestserver.online:5052/live2/KkgjfNdFMkbW38r6DocDPA/50399/1594440499/4000063.m3u8
+
+#EXTINF:-1 tvg-id="sky.cinema.action.uk" tvg-name="sky.cinema.action.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.action.uk.png",Sky Cinema Action
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sky.cinema.action.uk.m3u8
+https://31-220-2-60.bestserver.online:5052/live0/tCciu-nvrSFcxSLKemhfrg/50399/1594440512/4001693.m3u8
+
+#EXTINF:-1 tvg-id="sky.cinema.comedy.uk" tvg-name="sky.cinema.comedy.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.comedy.uk.png",Sky Cinema Comedy
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sky.cinema.comedy.uk.m3u8
+https://31-220-2-60.bestserver.online:5052/live0/9hjTMClyoObMxeIN-rdc9g/50399/1594440524/4001691.m3u8
+
+#EXTINF:-1 tvg-id="sky.cinema.disney.uk" tvg-name="sky.cinema.disney.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.disney.uk.png",Sky Cinema Disney
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sky.cinema.disney.uk.m3u8
+https://31-220-2-60.bestserver.online:5052/live2/P5bd0YWeopyeXy8Fbg50QQ/50399/1594440537/4000049.m3u8
+
+#EXTINF:-1 tvg-id="sky.cinema.drama.uk" tvg-name="sky.cinema.drama.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.drama.uk.png",Sky Cinema Drama
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sky.cinema.drama.uk.m3u8
+https://31-220-2-60.bestserver.online:5052/live2/dwtCqHDpo1LQncYDcShp1Q/50399/1594440550/4001694.m3u8
+
+#EXTINF:-1 tvg-id="sky.cinema.family.uk" tvg-name="sky.cinema.family.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.family.uk.png",Sky Cinema Family
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sky.cinema.family.uk.m3u8
+https://31-220-2-60.bestserver.online:5052/live2/kWlbR-ibTUrtgnHCI3wNqg/50399/1594440563/4001690.m3u8
+
+#EXTINF:-1 tvg-id="sky.cinema.greats.uk" tvg-name="sky.cinema.greats.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.greats.uk.png",Sky Cinema Greats UK
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sky.cinema.greats.uk.m3u8
+https://31-220-2-60.bestserver.online:5052/live0/AWRoLJRP1NRsVoQOl5PFJQ/50399/1594440578/4000054.m3u8
+
+#EXTINF:-1 tvg-id="sky.cinema.hits.uk" tvg-name="sky.cinema.hits.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.hits.uk.png",Sky Cinema Hits
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sky.cinema.hits.uk.m3u8
+https://31-220-2-60.bestserver.online:5052/live0/s2gP8n0-urA4slVdIy6sYQ/50399/1594440591/4001689.m3u8
+
+#EXTINF:-1 tvg-id="sky.cinema.premiere.uk" tvg-name="sky.cinema.premiere.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.premiere.uk.png",Sky Cinema Premiere
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sky.cinema.premiere.uk.m3u8
+https://31-220-2-60.bestserver.online:5052/live0/ETAfZy4GNGH_-gve5brqaw/50399/1594440602/4000045.m3u8
+
+#EXTINF:-1 tvg-id="sky.cinema.sci.fihorror.uk" tvg-name="sky.cinema.sci.fihorror.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.sci.fihorror.uk.png",Sky Cinema Sci-fi Horror
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sky.cinema.sci.fihorror.uk.m3u8
+
+#EXTINF:-1 tvg-id="sky.cinema.thriller.uk" tvg-name="sky.cinema.thriller.uk" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/sky.cinema.thriller.uk.png",Sky Cinema Thriller
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sky.cinema.thriller.uk.m3u8
+
+#EXTINF:-1 tvg-id="starz.cinema.eastern.us" tvg-name="starz.cinema.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.cinema.eastern.us.png",Starz Cinema (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/starz.cinema.eastern.us.m3u8
+
+#EXTINF:-1 tvg-id="starz.comedy.eastern.us" tvg-name="starz.comedy.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.comedy.eastern.us.png",Starz Comedy (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/starz.comedy.eastern.us.m3u8
+
+#EXTINF:-1 tvg-id="starz.edge.eastern.us" tvg-name="starz.edge.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.edge.eastern.us.png",Starz Edge (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/starz.edge.eastern.us.m3u8
+
+#EXTINF:-1 tvg-id="starz.encore.eastern.us" tvg-name="starz.encore.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.encore.eastern.us.png",Starz Encore (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/starz.encore.eastern.us.m3u8
+
+#EXTINF:-1 tvg-id="sony.movie.channel.us" tvg-name="sony.movie.channel.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/sony.movie.channel.us.png",Sony Movie Channel
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sony.movie.channel.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/9khp3KMGqQg5pPCxF_VuwA/50399/1594438159/9080496.m3u8
+
+#EXTINF:-1 tvg-id="mgm.usa.us" tvg-name="mgm.usa.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/mgm.usa.us.png",MGM US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/mgm.usa.us.m3u8
+https://37-48-106-74.bestserver.online:5052/live11/HfgJct5zF4iLg2XcO8_-QA/50399/1594437720/14000030.m3u8
+
+#EXTINF:-1 tvg-id="hallmark.channel.eastern.us" tvg-name="hallmark.channel.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hallmark.channel.eastern.us.png",Hallmark Channel (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hallmark.channel.eastern.us.m3u8
+
+#EXTINF:-1 tvg-id="hallmark.drama.us" tvg-name="hallmark.drama.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hallmark.drama.us.png",Hallmark Drama US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hallmark.drama.us.m3u8
+
+#EXTINF:-1 tvg-id="hallmark.movies.mysteries.eastern.us" tvg-name="hallmark.movies.mysteries.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/hallmark.movies.mysteries.eastern.us.png",Hallmark Movies Mysteries US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hallmark.movies.mysteries.eastern.us.m3u8
+
+#EXTINF:-1 tvg-id="hotbollywood.il" tvg-name="hotbollywood.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/hotbollywood.il.png",HOT Bollywood
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hotbollywood.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/uxehCPh3ZOYuhT8dVN7Tmg/50399/1594431939/1549.m3u8
+
+#EXTINF:-1 tvg-id="hotbombay.il" tvg-name="hotbombay.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/hotbombay.il.png",Hot Bombay
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hotbombay.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live2/ho967gIx0Q1FW0IkeXz9gw/50399/1594431951/1560.m3u8

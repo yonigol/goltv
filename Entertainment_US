@@ -1,0 +1,69 @@
+ENTERTAINMENT USA
+#EXTINF:-1 tvg-id="hbo.eastern.us" tvg-name="hbo.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hbo.eastern.us.png",HBO (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hbo.eastern.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live12/-Jdgf7MWNpTeWIT0ydQ4bQ/50399/1594437571/3014451.m3u8
+
+#EXTINF:-1 tvg-id="hbo.2.eastern.us" tvg-name="hbo.2.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hbo.2.eastern.us.png",HBO 2 (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hbo.2.eastern.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/eSpy4fJzIH2s5Kt-zY4CjQ/50399/1594437601/3005869.m3u8
+
+#EXTINF:-1 tvg-id="hbo.comedy.east.us" tvg-name="hbo.comedy.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hbo.comedy.east.us.png",HBO Comedy (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hbo.comedy.east.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/2SLQVwQJT2iOb4KTL2Axag/50399/1594437625/1022589.m3u8
+
+#EXTINF:-1 tvg-id="hbo.family.eastern.us" tvg-name="hbo.family.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hbo.family.eastern.us.png",HBO Family (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hbo.family.eastern.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live12/xOiNuL_WmKmP0Hj8p3ngeQ/50399/1594437638/3014143.m3u8
+
+#EXTINF:-1 tvg-id="hbo.signature.hbo.3.eastern.us" tvg-name="hbo.signature.hbo.3.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hbo.signature.hbo.3.eastern.us.png",HBO Signature (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/5PaZ3y9fc7SUhT862GTBnw/50399/1594437651/1022593.m3u8
+
+#EXTINF:-1 tvg-id="hbo.zone.east.us" tvg-name="hbo.zone.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hbo.zone.east.us.png",HBO Zone (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/hbo.zone.east.us.m3u8
+https://37-48-106-74.bestserver.online:5052/live13/DxJmgL06ph9_oz2ML0f9FA/50399/1594437665/1022595.m3u8
+
+#EXTINF:-1 tvg-id="abc.spark.ca" tvg-name="abc.spark.ca" tvg-type="live" group-title="Canada" tvg-logo="https://media.tv4.live/abc.spark.ca.png",ABC Spark
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/abc.spark.ca.m3u8
+https://95-211-216-163.bestserver.online:5052/live12/ZFZ3t7jIQ5dz9RPhP_PggA/50399/1594438410/3008260.m3u8
+
+#EXTINF:-1 tvg-id="starz.eastern.us" tvg-name="starz.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.eastern.us.png",Starz (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/starz.eastern.us.m3u8
+
+#EXTINF:-1 tvg-id="starz.kids.family.eastern.us" tvg-name="starz.kids.family.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.kids.family.eastern.us.png",Starz Kids Family (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/starz.kids.family.eastern.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live11/o5momXYJqg2vnDgBC1mQeQ/50399/1594438255/14000028.m3u8
+
+#EXTINF:-1 tvg-id="discovery.family.channel.us" tvg-name="discovery.family.channel.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/discovery.family.channel.us.png",Discovery Family US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/discovery.family.channel.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/c4xmilFp1Hv7RLz0b8t1Pw/50399/1594437270/9078969.m3u8
+
+#EXTINF:-1 tvg-id="showtime.eastern.us" tvg-name="showtime.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.eastern.us.png",Showtime (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/showtime.eastern.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live12/3SZz_jr7CycaSvwJwEITHA/50399/1594437993/20000501.m3u8
+
+#EXTINF:-1 tvg-id="showtime.2.eastern.us" tvg-name="showtime.2.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.2.eastern.us.png",Showtime 2 (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/showtime.2.eastern.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live12/DHAl5QWjLyOxY9yrYTa6og/50399/1594438043/20000685.m3u8
+
+#EXTINF:-1 tvg-id="showtime.beyond.eastern.us" tvg-name="showtime.beyond.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.beyond.eastern.us.png",Showtime Beyond (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/showtime.beyond.eastern.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live11/U1b5Ce7MB1SgUEYs0FIiFw/50399/1594438057/14001776.m3u8
+
+#EXTINF:-1 tvg-id="showtime.extreme.eastern.us" tvg-name="showtime.extreme.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.extreme.eastern.us.png",Showtime Extreme (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/showtime.extreme.eastern.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live11/Q66O-2zpUoKtBIvg6fXLrw/50399/1594438073/14000439.m3u8
+
+#EXTINF:-1 tvg-id="showtime.family.zone.eastern.us" tvg-name="showtime.family.zone.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.family.zone.eastern.us.png",Showtime Family Zone (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/showtime.family.zone.eastern.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live11/ylfhAjVw1H4k1VvtDbcpQQ/50399/1594438086/14000438.m3u8
+
+#EXTINF:-1 tvg-id="showtime.next.eastern.us" tvg-name="showtime.next.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.next.eastern.us.png",Showtime Next US (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/showtime.next.eastern.us.m3u8
+#EXTINF:-1 tvg-id="showtime.showcase.eastern.us" tvg-name="showtime.showcase.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.showcase.eastern.us.png",Showtime Showcase (East) US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/showtime.showcase.eastern.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live11/wo2x30v-4QbxHN_QJaos7Q/50399/1594438115/14001774.m3u8
+
+#EXTINF:-1 tvg-id="showtime.women.eastern.us" tvg-name="showtime.women.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.women.eastern.us.png",Showtime Woman US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/showtime.women.eastern.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live11/6E5QNl9QAphbAJwSdtgHVQ/50399/1594438129/14001778.m3u8

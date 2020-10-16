@@ -1,0 +1,52 @@
+SPORTS IL
+#EXTINF:-1 tvg-id="5sporthd.il" tvg-name="5sporthd.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/5sporthd.il.png",Sport 5
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/5sporthd.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/U9mN9F99UdvY94DyHsEVAQ/50399/1594432405/200004.m3u8
+https://95-211-216-163.bestserver.online:5052/live0/camHzbTPMt_Fegoesl6j-w/50399/1594483301/200015.m3u8
+
+#EXTINF:-1 tvg-id="5gold.il" tvg-name="5gold.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/5gold.il.png",Sport 5 Gold
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/5gold.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/SLp8fAcUOO8-tFFB8bpShw/50399/1594432419/200019.m3u8
+
+#EXTINF:-1 tvg-id="5live.il" tvg-name="5live.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/5live.il.png",Sport 5 Live
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/5live.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/iWXe1k9HuaeUiwJleJ1X1g/50399/1594432431/200017.m3u8
+
+#EXTINF:-1 tvg-id="5plus.il" tvg-name="5plus.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/5plus.il.png",Sport 5 Plus
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/5plus.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/6AgCb5OKxhLNqwNKC4mFuQ/50399/1594432449/200018.m3u8
+
+#EXTINF:-1 tvg-id="5starts.il" tvg-name="5starts.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/5starts.il.png",Sport 5 Stars
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/5starts.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/6oqNQk5XrjXNgClQZ7DMGw/50399/1594432463/200016.m3u8
+#EXTINF:-1 tvg-id="sport1.il" tvg-name="sport1.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/sport1.il.png",Sport 1
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sport1.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live0/ME4XHzLZOLMny75tyaHMMQ/50399/1594432357/200001.m3u8
+
+#EXTINF:-1 tvg-id="sport2.il" tvg-name="sport2.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/sport2.il.png",Sport 2
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sport2.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live0/ZMt-FA4Yk5lcUqShJffEMg/50399/1594432377/200002.m3u8
+
+#EXTINF:-1 tvg-id="sport3.il" tvg-name="sport3.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/sport3.il.png",Sport 3
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sport3.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/JHrO0tCagAay_RnKKHbUzQ/50399/1594432390/200003.m3u8
+
+#EXTINF:-1 tvg-id="sport4.il" tvg-name="sport4.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/sport4.il.png",Sport 4
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sport4.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live0/7eZCcL68GMzPVxAjzvGuHA/50399/1594476943/200004.m3u8
+
+#EXTINF:-1 tvg-id="one.il" tvg-name="one.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/one.il.png",Sport ONE
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/one.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/EHkxuVsS3DtgWKCduxM0xg/50399/1594432477/200020.m3u8
+
+#EXTINF:-1 tvg-id="one2.il" tvg-name="one2.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/one2.il.png",Sport ONE 2
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/one2.il.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/gZ0bERSo0WY-gxXobSs9xA/50399/1594432490/200021.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1.il" tvg-name="eurosport1.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/eurosport1.il.png",Eurosport 1
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/eurosport1.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live0/BywNK-dfpiNXJxUiS2PSTA/50399/1594431728/200005.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2.il" tvg-name="eurosport2.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/eurosport2.il.png",Eurosport 2
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/eurosport2.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live0/1VsT0JkZGZLT1-aS4z-NFg/50399/1594431743/200006.m3u8

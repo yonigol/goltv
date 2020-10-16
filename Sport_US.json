@@ -1,0 +1,36 @@
+
+SPORTS US
+#EXTINF:-1 tvg-id="nbc.sports.network.us" tvg-name="nbc.sports.network.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/nbc.sports.network.us.png",NBC Sports Network US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/nbc.sports.network.us.m3u8
+https://31-220-2-60.bestserver.online:5052/live13/F3uJUipzM2ZG02X53yL6DA/50399/1594439876/9048671.m3u8
+
+#EXTINF:-1 tvg-id="cbs.sports.network.usa.us" tvg-name="cbs.sports.network.usa.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/cbs.sports.network.usa.us.png",CBS Sports Network
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/cbs.sports.network.usa.us.m3u8
+https://31-220-2-60.bestserver.online:5052/live13/6_lu1i0nLNlfoF3o5cXAcA/50399/1594439725/9069495.m3u8
+
+#EXTINF:-1 tvg-id="espn.us" tvg-name="espn.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/espn.us.png",ESPN US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/espn.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live11/ciKCnekGigmFrW9q_Ed1_g/50399/1594439746/1023006.m3u8
+
+#EXTINF:-1 tvg-id="espn.deportes.us" tvg-name="espn.deportes.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.deportes.us.png",ESPN Deportes
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/espn.deportes.us.m3u8
+https://31-220-2-60.bestserver.online:5052/live13/XciOndc7rlmXqx40O0j1Xg/50399/1594440234/3006786.m3u8
+
+#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="fox.sports.1.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.1.us.png",Fox Sports 1
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/fox.sports.1.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/8ydm2Huj_dqnCleZDO9GTg/50399/1594439795/9094653.m3u8
+
+#EXTINF:-1 tvg-id="fox.sports.2.us" tvg-name="fox.sports.2.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.2.us.png",Fox Sports 2
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/fox.sports.2.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/C5oAoadVPyQFl5g_p_siWQ/50399/1594439807/9069553.m3u8
+
+#EXTINF:-1 tvg-id="nba.tv.usa.us" tvg-name="nba.tv.usa.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/nba.tv.usa.us.png",NBA TV US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/nba.tv.usa.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/QiR8ZFyOWChYgGPIgU0YYw/50399/1594439858/9045537.m3u8
+
+#EXTINF:-1 tvg-id="olympic.channel.us" tvg-name="olympic.channel.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/olympic.channel.us.png",Olympic Channel
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/olympic.channel.us.m3u8
+https://31-220-2-60.bestserver.online:5052/live13/I94e0NJ0CWNVyVX7zYDDaQ/50399/1594439915/9118008.m3u8
+
+#EXTINF:-1 tvg-id="stadium.us" tvg-name="stadium.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/stadium.us.png",Stadium
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/stadium.us.m3u8

@@ -1,0 +1,80 @@
+NEWS
+#EXTINF:-1 tvg-id="i24.il" tvg-name="i24.il" tvg-type="live" group-title="Israel" tvg-logo="https://media.tv4.live/i24.il.png",i24
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/i24.il.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/B3M-zHgjuoDRYJpZBeqRIA/50399/1594432112/1562.m3u8
+
+#EXTINF:-1 tvg-id="cnn.international.north.america.us" tvg-name="cnn.international.north.america.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/cnn.international.north.america.us.png",CNN International North America
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/cnn.international.north.america.us.m3u8
+https://37-48-106-74.bestserver.online:5052/live12/Lmb6iUAtkjQRlTy27XAoGA/50399/1594437184/3023048.m3u8
+
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="cnn.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/cnn.us.png",CNN US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/cnn.us.m3u8
+https://37-48-106-74.bestserver.online:5052/live11/Cn_lN7XO9BzhR5H1BQsxXQ/50399/1594437206/14000013.m3u8
+
+#EXTINF:-1 tvg-id="fox.news.us" tvg-name="fox.news.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/fox.news.us.png",FOX News US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/fox.news.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/7um3CioTJajibKH_7WO_ww/50399/1594437448/9070522.m3u8
+
+#EXTINF:-1 tvg-id="sky.news.uk" tvg-name="sky.news.uk" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/sky.news.uk.png",Sky News
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sky.news.uk.m3u8
+https://31-220-2-60.bestserver.online:5052/live0/vUVfrPiDcqLHguFSufKo2A/50399/1594439539/4000109.m3u8
+
+#EXTINF:-1 tvg-id="bbc.world.north.america.us" tvg-name="bbc.world.north.america.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bbc.world.north.america.us.png",BBC World North America US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/bbc.world.north.america.us.m3u8
+
+#EXTINF:-1 tvg-id="fox.business.us" tvg-name="fox.business.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/fox.business.us.png",FOX Business Network
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/fox.business.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/Vl3o9x0P3Cz0m-XGXJO5GQ/50399/1594437433/9068900.m3u8
+
+#EXTINF: -1 tvg-id="cheddaru.us" tvg-name="cheddaru.us" tvg-logo="https://media.tv4.live/cheddaru.us.png" group-title="US", CheddarU
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/cheddaru.us.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg.uk" tvg-name="bloomberg.uk" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/bloomberg.uk.png",Bloomberg UK
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/bloomberg.uk.m3u8
+
+#EXTINF:-1 tvg-id="euronews.ze" tvg-name="euronews.ze" tvg-type="live" group-title="Africa" tvg-logo="https://media.tv4.live/euronews.ze.png",EuroNews ZA
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/euronews.ze.m3u8
+https://37-48-106-74.bestserver.online:5052/live12/mpaG-bto6Hkyx7ascvQjqA/50399/1594441519/20000767.m3u8
+
+#EXTINF:-1 tvg-id="cnbc.world.us" tvg-name="cnbc.world.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/cnbc.world.us.png",CNBC World US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/cnbc.world.us.m3u8
+
+#EXTINF:-1 tvg-id="msnbc.usa.us" tvg-name="msnbc.usa.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/msnbc.usa.us.png",MSNBC US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/msnbc.usa.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/_smhszlmOYt2vAO4sfX81A/50399/1594437749/9075083.m3u8
+
+EXTINF:-1 tvg-id="telemundo.wscv.fort.lauderdale.fl.us" tvg-name="telemundo.wscv.fort.lauderdale.fl.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.wscv.fort.lauderdale.fl.us.png",Telemundo (WSCV) Fort Lauderdale, FL
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/telemundo.wscv.fort.lauderdale.fl.us.m3u8
+
+#EXTINF:-1 tvg-id="univision.eastern.us" tvg-name="univision.eastern.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/univision.eastern.us.png",Univision Eastern US
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/univision.eastern.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live12/dPnlhXSp7rBHGIFlmD4iyA/50399/1594435195/3017122.m3u8
+
+#EXTINF:-1 tvg-id="cbc.network.ca" tvg-name="cbc.network.ca" tvg-type="live" group-title="Canada" tvg-logo="https://media.tv4.live/cbc.network.ca.png",CBC Network
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/cbc.network.ca.m3u8
+https://95-211-216-163.bestserver.online:5052/live11/M0W_f_JMZ5siSJyi8OP6dg/50399/1594438555/3018779.m3u8
+
+#EXTINF:-1 tvg-id="rt.uk" tvg-name="rt.uk" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/rt.uk.png",RT UK
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/rt.uk.m3u8
+https://37-48-106-74.bestserver.online:5052/live0/d0BYuwyjv4xhT6EV9jh44A/50399/1594439528/2707.m3u8
+
+#EXTINF:-1 tvg-id="cgtn.news.ze" tvg-name="cgtn.news.ze" tvg-type="live" group-title="Africa" tvg-logo="https://media.tv4.live/cgtn.news.ze.png",CGTN News
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/cgtn.news.ze.m3u8
+https://37-48-106-74.bestserver.online:5052/live12/DCx2iK-BXqm568XJsASY2Q/50399/1594441466/20000069.m3u8
+
+#EXTINF:-1 tvg-id="deutsche.welle.ze" tvg-name="deutsche.welle.ze" tvg-type="live" group-title="Africa" tvg-logo="https://media.tv4.live/deutsche.welle.ze.png",Deutsche Welle
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/deutsche.welle.ze.m3u8
+
+#EXTINF:-1 tvg-id="sabc.news.ze" tvg-name="sabc.news.ze" tvg-type="live" group-title="Africa" tvg-logo="https://media.tv4.live/sabc.news.ze.png",SABC News
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sabc.news.ze.m3u8
+
+#EXTINF:-1 tvg-id="nsw.sydney.sky.news.au" tvg-name="nsw.sydney.sky.news.au" tvg-type="live" group-title="Australia" tvg-logo="https://media.tv4.live/nsw.sydney.sky.news.au.png",Sky News AU
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/nsw.sydney.sky.news.au.m3u8
+
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="band.news.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/band.news.br.png",Band News
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/band.news.br.m3u8
+https://95-211-216-163.bestserver.online:5052/live2/wovuS-kr4SxoDd6Vw7E1Cw/50399/1594441886/6000026.m3u8
+
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="globo.news.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/globo.news.br.png",Globo News
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/globo.news.br.m3u8
+https://95-211-216-163.bestserver.online:5052/live11/4Z2r65Fso6-RJ-zlsqO3Pg/50399/1594442016/6000159.m3u8

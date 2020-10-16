@@ -1,0 +1,8 @@
+
+SPORTS IT
+#EXTINF:-1 tvg-id="sky.sport.serie.a.it" tvg-name="sky.sport.serie.a.it" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sky.sport.serie.a.it.png",Sky Sport Serie A IT
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sky.sport.serie.a.it.m3u8
+https://31-220-2-60.bestserver.online:5052/live11/rAiFxTJ3HbfO2pDmvg4vFA/50399/1594439989/3014894.m3u8
+
+#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-name="sky.sport.motogp.it" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sky.sport.motogp.it.png",Sky Sport MotoGP IT
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/sky.sport.motogp.it.m3u8

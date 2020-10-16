@@ -1,0 +1,4 @@
+INTERNATIONAL TV
+#EXTINF:-1 tvg-id="cbc.network.ca" tvg-name="cbc.network.ca" tvg-type="live" group-title="Canada" tvg-logo="https://media.tv4.live/cbc.network.ca.png",CBC Network
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/cbc.network.ca.m3u8
+https://95-211-216-163.bestserver.online:5052/live11/M0W_f_JMZ5siSJyi8OP6dg/50399/1594438555/3018779.m3u8

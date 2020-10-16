@@ -1,0 +1,40 @@
+USA LOCAL
+#EXTINF:-1 tvg-id="abc.wabc.new.york.ny.us" tvg-name="abc.wabc.new.york.ny.us" tvg-type="live" group-title="US Local" tvg-logo="https://media.tv4.live/abc.wabc.new.york.ny.us.png",ABC (WABC) New York NY
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/abc.wabc.new.york.ny.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live12/zca6l4MH-aUVLuNumVrIaA/50399/1594438842/3008642.m3u8
+
+#EXTINF:-1 tvg-id="abc.wftv.orlando.fl.us" tvg-name="abc.wftv.orlando.fl.us" tvg-type="live" group-title="US Local" tvg-logo="https://media.tv4.live/abc.wftv.orlando.fl.us.png",ABC (WFTV) Orlando FL
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/abc.wftv.orlando.fl.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/q7VLX8vp7y927m0sbQzfAA/50399/1594438861/3006835.m3u8
+
+#EXTINF:-1 tvg-id="abc.wplg.miami.fl.us" tvg-name="abc.wplg.miami.fl.us" tvg-type="live" group-title="US Local" tvg-logo="https://media.tv4.live/abc.wplg.miami.fl.us.png",ABC (WPLG) Miami FL
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/abc.wplg.miami.fl.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/FguMyVmtNG9w0Ca5DjMenA/50399/1594438885/3006840.m3u8
+
+#EXTINF:-1 tvg-id="cbs.wcbs.new.york.ny.us" tvg-name="cbs.wcbs.new.york.ny.us" tvg-type="live" group-title="US Local" tvg-logo="https://media.tv4.live/cbs.wcbs.new.york.ny.us.png",CBS (WCBS) New York NY
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/cbs.wcbs.new.york.ny.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/GbqczueYkbfGkKacvZwEoQ/50399/1594438929/3006486.m3u8
+
+#EXTINF:-1 tvg-id="cbs.wfor.miami.fl.us" tvg-name="cbs.wfor.miami.fl.us" tvg-type="live" group-title="US Local" tvg-logo="https://media.tv4.live/cbs.wfor.miami.fl.us.png",CBS (WFOR) Miami FL
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/cbs.wfor.miami.fl.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/-oR7NEbTXAnxqw_D10nKZg/50399/1594438948/3006465.m3u8
+
+#EXTINF:-1 tvg-id="fox.wnyw.new.york.ny.us" tvg-name="fox.wnyw.new.york.ny.us" tvg-type="live" group-title="US Local" tvg-logo="https://media.tv4.live/fox.wnyw.new.york.ny.us.png",FOX (WNYW) New York NY
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/fox.wnyw.new.york.ny.us.m3u8
+https://37-48-106-74.bestserver.online:5052/live13/zMGZtNZnQ9W4G6bzl_rd4w/50399/1594439040/3006598.m3u8
+
+#EXTINF:-1 tvg-id="fox.wsvn.miami.fl.us" tvg-name="fox.wsvn.miami.fl.us" tvg-type="live" group-title="US Local" tvg-logo="https://media.tv4.live/fox.wsvn.miami.fl.us.png",FOX (WSVN) Miami FL
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/fox.wsvn.miami.fl.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/96QQPAWLyDqht60ZcmHE7g/50399/1594439059/3006630.m3u8
+
+#EXTINF:-1 tvg-id="nbc.wnbc.new.york.ny.us" tvg-name="nbc.wnbc.new.york.ny.us" tvg-type="live" group-title="US Local" tvg-logo="https://media.tv4.live/nbc.wnbc.new.york.ny.us.png",NBC (WNBC) New York NY
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/nbc.wnbc.new.york.ny.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/lfZcmnV5JZBjpRJJEHPp3A/50399/1594439112/3006598.m3u8
+
+#EXTINF:-1 tvg-id="nbc.wtvj.miami.fl.us" tvg-name="nbc.wtvj.miami.fl.us" tvg-type="live" group-title="US Local" tvg-logo="https://media.tv4.live/nbc.wtvj.miami.fl.us.png",NBC (WTVJ) Miami FL
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/nbc.wtvj.miami.fl.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live13/AoaWRtOaZJAsIMklSnBvfQ/50399/1594439136/3006669.m3u8
+
+#EXTINF:-1 tvg-id="news.12.long.island.us" tvg-name="news.12.long.island.us" tvg-type="live" group-title="US Local" tvg-logo="https://media.tv4.live/news.12.long.island.us.png",News 12 Long Island
+https://tv4.live/api/stream/y.gol@applicaster.com/612586/livetv.epg/news.12.long.island.us.m3u8
+https://95-211-216-163.bestserver.online:5052/live12/mapWweXgnuBeMlHbR7YP2Q/50399/1594439153/3024480.m3u8
